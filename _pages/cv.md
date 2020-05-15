@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,15 +19,39 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Junior Researcher
+  * [Institute for Physical and Information Technologies(ITEFI) - Spanish National Research Council(CSIC), Madrid (Spain)](www.itefi.csic.es)
+  * Research on Lightweight Cryptography applied to 5G Communication Systems, with focus on stream ciphers.
+
+* Developer
+  * [Decide Soluciones, Madrid (Spain)](decidesoluciones.es)
+    * IBM Operational Decision Manager
+    * Kafka Streams
+    * Elastic Search + Kibana
+    
+* 2017-2019: Co-founder and CTO
+  * Joel PCS, Valencia (Spain)
+  * Launched the web and e-commerce for the plague control startup, also working in the product design and search for financing.
+  
+* 2016-2017: Internship in the Communication and IT departments
+  * [Université internationale Terre Citoyenne, Valencia (Spain)](uitc.earth)
+  * Webmaster & Community Manager
+  * Organization of the conference about sustainability "Diálogos Sostenibles UPV 2017"
+
+* 2016: Junior PHP & JavaScript Developer
+  * [VozFusion, VoIP services for ISP and WISP, Torrent (Spain)](www.vozfusion.com)
+  * Development of an internal mobile application with Ionic.
+  * Development of an ERP for internal use with Symfony2 and Sencha-Ext JavaScript.
+
+* 2015: CTO
+  * Yeyehelp, Barcelona (Spain)
+  * Technical advisor in the first steps of the startup
+
+* Summer 2015: Junior Android developer
+  * [Open Xarxes, Paterna (Spain)](openxarxes.com)
+  * GNU-Linux Basics
+  * Android: Incident management app development for a client.
   
 Skills
 ======
