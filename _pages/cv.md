@@ -23,35 +23,35 @@ Education
 Work experience
 ======
 
-* **Junior Researcher**
+* **Junior Researcher**  
   <span style="font-size:12px">[Institute for Physical and Information Technologies(ITEFI)](www.itefi.csic.es) - Spanish National Research Council(CSIC), Madrid (Spain)</span>
   * Research on Lightweight Cryptography applied to 5G Communication Systems, with focus on stream ciphers.
 
-* **Developer**
+* **Developer**  
   <span style="font-size:12px">[Decide Soluciones](decidesoluciones.es), Madrid (Spain)</span>
     * IBM Operational Decision Manager
     * Kafka Streams
     * Elastic Search + Kibana
     
-* 2017-2019: **Co-founder and CTO**
+* 2017-2019: **Co-founder and CTO**  
   <span style="font-size:12px">Joel PCS, Valencia (Spain)</span>
   * Launched the web and e-commerce for the plague control startup, also working in the product design and search for financing.
   
-* 2016-2017: **Internship in the Communication and IT departments**
+* 2016-2017: **Internship in the Communication and IT departments**  
  <span style="font-size:12px">[Université internationale Terre Citoyenne](uitc.earth), Valencia (Spain)</span>
   * Webmaster & Community Manager
   * Organization of the conference about sustainability "Diálogos Sostenibles UPV 2017"
 
-* 2016: **Junior PHP & JavaScript Developer**
+* 2016: **Junior PHP & JavaScript Developer**  
 <span style="font-size:12px">[VozFusion, VoIP services for ISP and WISP](www.vozfusion.com), Torrent (Spain)</span>
   * Development of an internal mobile application with Ionic.
   * Development of an ERP for internal use with Symfony2 and Sencha-Ext JavaScript.
 
-* 2015: **CTO**
+* 2015: **CTO**  
 <span style="font-size:12px">Yeyehelp, Barcelona (Spain)</span>
   * Technical advisor in the first steps of the startup
 
-* Summer 2015: **Junior Android developer**
+* Summer 2015: **Junior Android developer**  
 <span style="font-size:12px">[Open Xarxes](openxarxes.com), Paterna (Spain)</span>
   * GNU-Linux Basics
   * Android: Incident management app development for a client.
