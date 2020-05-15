@@ -16,10 +16,9 @@ Education
   * Information Techonologies intensification.
   * Honor mentions, including the final research project  "Bidirectional Search applied to the Another Solution Problem" [http://hdl.handle.net/10251/126138](http://hdl.handle.net/10251/126138)
 
-* **National mobility program SICUE**
+* **National mobility program SICUE**  
 <span style="font-size:12px">[2017-2018] - Universidad Carlos III de Madrid(UC3M), Madrid(Spain)</span>
-
-* Courses: Artificial Inteligence, Genetic and Evolutive Algorithms, Neural Networks and Optimization.
+  * Courses: Artificial Inteligence, Genetic and Evolutive Algorithms, Neural Networks and Optimization.
 
 Work experience
 ======
@@ -43,16 +42,16 @@ Work experience
   * Webmaster & Community Manager
   * Organization of the conference about sustainability "Diálogos Sostenibles UPV 2017"
 
-* 2016: Junior PHP & JavaScript Developer
+* 2016: **Junior PHP & JavaScript Developer**
 <span style="font-size:12px">[VozFusion, VoIP services for ISP and WISP](www.vozfusion.com), Torrent (Spain)</span>
   * Development of an internal mobile application with Ionic.
   * Development of an ERP for internal use with Symfony2 and Sencha-Ext JavaScript.
 
-* 2015: CTO
+* 2015: **CTO**
 <span style="font-size:12px">Yeyehelp, Barcelona (Spain)</span>
   * Technical advisor in the first steps of the startup
 
-* Summer 2015: Junior Android developer
+* Summer 2015: **Junior Android developer**
 <span style="font-size:12px">[Open Xarxes](openxarxes.com), Paterna (Spain)</span>
   * GNU-Linux Basics
   * Android: Incident management app development for a client.
