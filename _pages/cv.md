@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* [2015-2019] - B.S. in Informatics Engineering, Universitat Politècnica de València(UPV), Valencia(Spain)
+  * Information Techonologies intensification.
+  * Honor mentions, including the final research project  "Bidirectional Search applied to the Another Solution Problem" [http://hdl.handle.net/10251/126138](http://hdl.handle.net/10251/126138)
+* [2017-2018] - Stay for studies under national mobility program SICUE, Universidad Carlos III de Madrid(UC3M), Madrid(Spain)
+  * Courses: Artificial Inteligence, Genetic and Evolutive Algorithms, Neural Networks and Optimization.
 
 Work experience
 ======
