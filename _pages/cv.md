@@ -53,17 +53,35 @@ Work experience
   * GNU-Linux Basics
   * Android: Incident management app development for a client.
   
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English
+  * TOEFL iBT 105 - 2019
+  * B2 Certificate (CEFR), PACLE, University of Valencia - 2014
+* Spanish (Mother tongue)
 
-Publications
+Honours and Awards
 ======
+* Winner of QuédaT 2018, a competition between the best students of the UPV on a hackaton fashion
+
+Memberships
+======
+* ACM & ACM-W UPV Chapter: member since 2016, being the ACM Chapter Chair on 2018-2019. 
+  Organization of conferences, courses and competitions for Informatic students and professionals at Universitat Politècnica de València. Some examples are RSA CryptoHack or the local hubs of Advent of Code, Google Hashcode and Women in DataScience
+* Ethical Hacking Club - NETON (UPV): member on my last semester at the UPV (2019) in CTF's.
+* Head Judge for the Techonvation Challenge 2019
+
+Courses
+======
+* Programmer Analyst - SQL, Java, J2EE, Android (250h, 1/2015 - 6/2015)
+* Web Applications Development Course - HTML5, CSS3, JavaScript, AJAX & PHP (600h, 1/2015 -6/2015)
+
+Conferences
+======
+BlockUniversitas 2019
+Workshop on Blockchain in the public administration and his application in valencian universities
+(Febraury 23, 2019)
+<!--
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -83,3 +101,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
