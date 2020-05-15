@@ -14,7 +14,7 @@ Education
 * **B.S. in Informatics Engineering**  
 <span style="font-size:12px">[2015-2019] - Universitat Politècnica de València(UPV), Valencia(Spain)</span>
   * Information Techonologies intensification.
-  * Honor mentions, including the final research project  "Bidirectional Search applied to the Another Solution Problem" [http://hdl.handle.net/10251/126138](http://hdl.handle.net/10251/126138)
+  * Honor mentions, including the final research project  ["Bidirectional Search applied to the Another Solution Problem"](http://hdl.handle.net/10251/126138)
 
 * **National mobility program SICUE**  
 <span style="font-size:12px">[2017-2018] - Universidad Carlos III de Madrid(UC3M), Madrid(Spain)</span>
