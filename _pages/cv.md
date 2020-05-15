@@ -83,14 +83,5 @@ Conferences
 ======
 * **BlockUniversitas 2019**
 Workshop on Blockchain in the public administration and his application in valencian universities
-<!--
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>-->
-  
-<!--Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>-->
+
 
