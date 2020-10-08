@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jose Luis Martin-Navarro"
 title_separator          : "-"
 name                     : &name "Jose Luis Martin-Navarro"
-description              : &description "Software Developer"
+description              : &description "Teaching Assistant and Master's degree student in Security and Cloud Computing (SECCLO - Erasmus Mundus) at Aalto University"
 url                      : https://jlmartinnavarro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jlmartinnavarro/jlmartinnavarro.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Spain"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=KKXOFB8AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jose-luis-martin"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4503-4189"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
