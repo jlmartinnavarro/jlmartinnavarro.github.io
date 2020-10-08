@@ -1,6 +1,6 @@
 ---
 title: "An Innovative Linear Complexity Computation for Cryptographic Sequences."
-collection: CISIS 2020
+collection: publications
 permalink: /publication/2020-CISIS-LC
 excerpt: 'A simple algorithm to compute the linear complexity of binary sequences with period a power of 2 has been proposed. The algorithm exploits the fractal structure of the binomial representation in this kind of binary sequences. The application of the general algorithm to a particular family of cryptographic sequences (generalized sequences) improves its performance as decreases the amount of sequence to be processed. '
 date: 2020-10-01
