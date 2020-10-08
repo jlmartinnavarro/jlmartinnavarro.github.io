@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "An Innovative Linear Complexity Computation for Cryptographic Sequences."
+collection: CISIS 2020
+permalink: /publication/2020-CISIS-LC
+excerpt: 'A simple algorithm to compute the linear complexity of binary sequences with period a power of 2 has been proposed. The algorithm exploits the fractal structure of the binomial representation in this kind of binary sequences. The application of the general algorithm to a particular family of cryptographic sequences (generalized sequences) improves its performance as decreases the amount of sequence to be processed. '
+date: 2020-10-01
+venue: '13th International Conference on Computational Intelligence in Security for Information Systems (CISIS 2020)'
+paperurl: 'https://doi.org/10.1007/978-3-030-57805-3_32'
+citation: 'Martín-Navarro J.L., Fúster-Sabater A., Cardell S.D. (2021) An Innovative Linear Complexity Computation for Cryptographic Sequences. In: Herrero Á., Cambra C., Urda D., Sedano J., Quintián H., Corchado E. (eds) 13th International Conference on Computational Intelligence in Security for Information Systems (CISIS 2020). CISIS 2019. Advances in Intelligent Systems and Computing, vol 1267. Springer, Cham. https://doi.org/10.1007/978-3-030-57805-3_32'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+A simple algorithm to compute the linear complexity of binary sequences with period a power of 2 has been proposed. The algorithm exploits the fractal structure of the binomial representation in this kind of binary sequences. The application of the general algorithm to a particular family of cryptographic sequences (generalized sequences) improves its performance as decreases the amount of sequence to be processed. .
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Martín-Navarro J.L., Fúster-Sabater A., Cardell S.D. (2021) An Innovative Linear Complexity Computation for Cryptographic Sequences. In: Herrero Á., Cambra C., Urda D., Sedano J., Quintián H., Corchado E. (eds) 13th International Conference on Computational Intelligence in Security for Information Systems (CISIS 2020). CISIS 2019. Advances in Intelligent Systems and Computing, vol 1267. Springer, Cham. https://doi.org/10.1007/978-3-030-57805-3_32
