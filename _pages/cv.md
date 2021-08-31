@@ -13,6 +13,10 @@ redirect_from:
 Education
 ======
 
+* **Master of Science - MS, Electrical Engineering and Computer Science - Communication Systems**  
+<span style="font-size:12px">[2021-2022] - KTH Royal Institute of Technology (Sweden)</span>
+  * Erasmus Mundus Joint Master Degree.
+
 * **Master's Programme in Security and Cloud Computing SECCLO**  
 <span style="font-size:12px">[2020-2022] - Aalto University (Finland)</span>
   * Erasmus Mundus Joint Master Degree.
@@ -30,11 +34,22 @@ Education
 Work experience
 ======
 
-* **Junior Researcher**  
+* 2021: **Cloud Developer Intern**  
+  <span style="font-size:12px">[Ericsson]</span>
+  * Design and implementation of features for micro-service-based tool, with both front and back-end cloud development.
+
+* 2020-2021: **Teacher Assistant**  
+  <span style="font-size:12px">[Aalto University]</span>
+  * Information Security course:
+  * Assisting students with the assigments in topics such as SQL injection, XSS, Buffer Overflow and password cracking.
+  * Security Engineering course:
+  * Assisting the course staff with grading tasks and students with the elaboration of risk assessments in real case scenarios.
+
+* 2019-2020: **Junior Researcher**  
   <span style="font-size:12px">[Institute for Physical and Information Technologies(ITEFI)](www.itefi.csic.es) - Spanish National Research Council(CSIC), Madrid (Spain)</span>
   * Research on Lightweight Cryptography applied to 5G Communication Systems, with focus on stream ciphers.
 
-* **Developer**  
+* 2019-2020: **Developer**  
   <span style="font-size:12px">[Decide Soluciones](decidesoluciones.es), Madrid (Spain)</span>
     * IBM Operational Decision Manager
     * Kafka Streams
@@ -72,7 +87,8 @@ Languages
 
 Honours and Awards
 ======
-* Winner of QuédaT 2018, a competition between the best students of the UPV on a hackaton fashion
+* Best communication award RECSI2021 (XVI Spanish National Conference on Cryptography and Information Security) for the research work "BSD: Algorithms for binomial decomposition of binary sequences". 
+* Winner of QuédaT 2018, a competition between the best students of the UPV on a hackaton fashion.
 
 Memberships
 ======
