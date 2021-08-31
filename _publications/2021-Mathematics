@@ -1,0 +1,15 @@
+---
+title: "Review of the Lineal Complexity Calculation through Binomial Decomposition-Based Algorithms."
+collection: publications
+permalink: /publication/2021-Mathematics
+excerpt: 'The ubiquity of smart devices and IoT are the main forces behind the development of cryptographic primitives that preserve the security of this devices, with the resources constraints they face. In this sense, the development of lightweight cryptographic algorithms, where PRNGs are an essential part of them, provides security to all these interconnected devices. In this work, a family of sequence generators with hard characteristics to be analyzed by standard methods is described. Moreover, we introduce an innovative technique for sequence decomposition that allows one to extract useful information on the sequences under study. In addition, diverse algorithms to evaluate the strength of such binary sequences have been introduced and analyzed to show which performs better.
+'
+date: 2021-02-26
+venue: 'Mathematics Cryptography and Information Security Special Issue of the MDPI journal Mathematics'
+paperurl: 'https://doi.org/10.3390/math9050478'
+citation: 'Martin-Navarro JL, Fúster-Sabater A. Review of the Lineal Complexity Calculation through Binomial Decomposition-Based Algorithms. Mathematics. 2021; 9(5):478. https://doi.org/10.3390/math9050478 '
+---
+The ubiquity of smart devices and IoT are the main forces behind the development of cryptographic primitives that preserve the security of this devices, with the resources constraints they face. In this sense, the development of lightweight cryptographic algorithms, where PRNGs are an essential part of them, provides security to all these interconnected devices. In this work, a family of sequence generators with hard characteristics to be analyzed by standard methods is described. Moreover, we introduce an innovative technique for sequence decomposition that allows one to extract useful information on the sequences under study. In addition, diverse algorithms to evaluate the strength of such binary sequences have been introduced and analyzed to show which performs better.
+[Download paper here](https://www.mdpi.com/2227-7390/9/5/478/pdf)
+
+Martin-Navarro JL, Fúster-Sabater A. Review of the Lineal Complexity Calculation through Binomial Decomposition-Based Algorithms. Mathematics. 2021; 9(5):478. https://doi.org/10.3390/math9050478 
