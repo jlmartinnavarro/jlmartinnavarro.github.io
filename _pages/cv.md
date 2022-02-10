@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* **Master of Science - MS, Electrical Engineering and Computer Science - Communication Systems**  
+* **Master of Science - MS, Electrical Engineering and Computer Science - Communication System**  
 <span style="font-size:12px">[2021-2022] - KTH Royal Institute of Technology (Sweden)</span>
   * Erasmus Mundus Joint Master Degree.
 
@@ -84,9 +84,11 @@ Languages
   * TOEFL iBT 105 - 2019
   * B2 Certificate (CEFR), PACLE, University of Valencia - 2014
 * Spanish (Mother tongue)
+* Catalan (Mother tongue)
 
 Honours and Awards
 ======
+* Selected for Aalto University Honours Programme in Computer Science. 
 * Best communication award RECSI2021 (XVI Spanish National Conference on Cryptography and Information Security) for the research work "BSD: Algorithms for binomial decomposition of binary sequences". 
 * Winner of QuédaT 2018, a competition between the best students of the UPV on a hackaton fashion.
 
@@ -94,8 +96,8 @@ Memberships
 ======
 * **ACM & ACM-W UPV Chapter**: member since 2016, being the ACM Chapter Chair on 2018-2019. 
   Organization of conferences, courses and competitions for Informatic students and professionals at Universitat Politècnica de València. Some examples are RSA CryptoHack or the local hubs of Advent of Code, Google Hashcode and Women in DataScience
-* **Ethical Hacking Club - NETON (UPV)**: member on my last semester at the UPV (2019) learning from CTF's competitions.
-* **Head Judge for the Techonvation Challenge 2019**
+* **Ethical Hacking Club - NETON (UPV)**: member on my last semester at the UPV (2019) learning from CTF challenges.
+* **Head Judge for the Technovation Challenge 2019**
 
 Courses
 ======
